@@ -12,6 +12,10 @@
 
 - ### [Conectando sua API ao MongoDB: Estrutura, Conexão e Refatoração](ConectandoAPI/menu.md)
 
+- ### [Implementando Armazenamento e Upload de Imagens](Armazenamento-Uploads-Imagens/menu.md)
+
+- ### [Publicando na Google Cloud: Configuração de API e Integração com Gemini](Publicando-Configurando/menu.md)
+
 <h2> 📞 Contato</h2>
 
 <div style="display: inline_block"><br>
