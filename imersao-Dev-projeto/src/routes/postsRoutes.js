@@ -21,7 +21,8 @@ const storage = multer.diskStorage({
 });
 
 // Cria uma instância do middleware Multer
-const upload = multer({ storage: storage });
+//const upload = multer({ storage: storage });
+const upload = multer({ dest: "./uploads", storage });
 
 // Define as rotas usando o objeto Express app
 const routes = (app) => {
